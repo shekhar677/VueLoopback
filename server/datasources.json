@@ -1,12 +1,11 @@
 {
   "db": {
-    "host": "localhost",
     "port": 27017,
-    "url": "",
-    "database": "vue_loopback",
-    "password": "",
+    "url": "mongodb+srv://shekhar:mongodb@storybooks-ycwqa.mongodb.net/posts",
+    "database": "posts",
+    "user": "shekhar",
+    "password": "mongodb",
     "name": "db",
-    "user": "",
     "connector": "mongodb",
     "useNewUrlParser": true
   }
