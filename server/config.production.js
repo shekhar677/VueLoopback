@@ -1,4 +1,4 @@
 module.exports = {
-  host: process.env.CUSTOM_HOST,
+  host: 'https://vueloopback.herokuapp.com/',
   port: process.env.CUSTOM_PORT
 };
